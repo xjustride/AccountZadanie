@@ -1,7 +1,6 @@
 # AccountZadanie
 
-![](https://imgur.com/a/jAGWWow
-)
+![](https://imgur.com/a/jAGWWow)
 Tworzysz bibliotekę klas. Pracujesz w przestrzeni nazw Bank.
 
 Dany jest interfejs IAccount określający wymagania dotyczące projektowanej przez Ciebie klasy Account.

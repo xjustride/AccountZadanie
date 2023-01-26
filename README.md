@@ -1,5 +1,7 @@
 # AccountZadanie
 
+![](Konto-bankowe-bez-podpisywania-umowy.png)
+
 Tworzysz bibliotekę klas. Pracujesz w przestrzeni nazw Bank.
 
 Dany jest interfejs IAccount określający wymagania dotyczące projektowanej przez Ciebie klasy Account.
